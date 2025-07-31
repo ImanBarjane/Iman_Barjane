@@ -1,7 +1,4 @@
-# Iman_Barjane
-This repository contains a README file to display on my profile
-
-# 👋 Hi, I'm Iman Barjane
+#  Hi, I'm Iman Barjane
 
 🎯 Data Analyst | Python | SQL | Power BI
 
